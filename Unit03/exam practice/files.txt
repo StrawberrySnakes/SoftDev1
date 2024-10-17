@@ -1,0 +1,23 @@
+total 81
+drwxr-xr-x 1 14153 197609    0 Sep 27 14:04 ./
+drwxr-xr-x 1 14153 197609    0 Sep 20 15:04 ../
+drwxr-xr-x 1 14153 197609    0 Sep 27 14:04 .git/
+-rw-r--r-- 1 14153 197609 1928 Sep 15 15:20 .gitignore
+drwxr-xr-x 1 14153 197609    0 Sep 15 15:32 .pytest_cache/
+drwxr-xr-x 1 14153 197609    0 Sep 19 22:55 __pycache__/
+-rw-r--r-- 1 14153 197609 2331 Sep 19 21:01 activities.py
+-rw-r--r-- 1 14153 197609 1433 Sep 15 16:40 activities_test.py
+-rw-r--r-- 1 14153 197609 1467 Sep 19 23:04 calculator.py
+-rw-r--r-- 1 14153 197609 1368 Sep 19 22:55 calculator_test.py
+drwxr-xr-x 1 14153 197609    0 Sep 27 14:01 exam practice/
+-rw-r--r-- 1 14153 197609    0 Sep 27 14:04 files.txt
+-rw-r--r-- 1 14153 197609  392 Sep 19 21:01 guessing_game.py
+-rw-r--r-- 1 14153 197609  936 Sep 19 21:01 guessing_game_test.py
+drwxr-xr-x 1 14153 197609    0 Sep 15 15:20 mini_practicum/
+-rw-r--r-- 1 14153 197609  844 Sep 18 00:44 more_math.py
+-rw-r--r-- 1 14153 197609 1053 Sep 18 00:26 more_math_test.py
+-rw-r--r-- 1 14153 197609 9886 Sep 27 14:03 practice_log.txt
+-rw-r--r-- 1 14153 197609  776 Sep 19 21:01 semantics.py
+-rw-r--r-- 1 14153 197609  843 Sep 15 15:20 semantics_test.py
+-rw-r--r-- 1 14153 197609 1113 Sep 19 21:01 sleuthing.py
+-rw-r--r-- 1 14153 197609  855 Sep 19 21:01 tracing.py

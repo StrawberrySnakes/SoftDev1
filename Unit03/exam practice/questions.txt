@@ -1,0 +1,7 @@
+Dessa
+Bobby
+Skylar
+I learned the basics of python and how to use bash to navigate files.
+I also learned about testing, errors and other stuff...
+I liked working to solve problems and figuring stuff out
+I did not like some of the more recent topics about loops, I kinda learned wrong in the past

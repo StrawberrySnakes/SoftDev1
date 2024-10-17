@@ -1,0 +1,342 @@
+commit 502b36dd0201fa96e560e2ae14ef18734de9e2a4
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Tue Sep 19 23:05:11 2023 -0400
+
+    3.2 HW adding comments)
+
+commit a6bb829d9065352d9c626c4db90411bf7e12ca81
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Tue Sep 19 23:01:11 2023 -0400
+
+    3.2 HW completing main function with inputs :)
+
+commit 0348f1b9a8538821a85e7754d4e4d0f8409cdfd8
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Tue Sep 19 22:56:33 2023 -0400
+
+    3.2 HW tested exponent function
+
+commit d9708d4b35bb7ed4b5c9a6f8a4bf1fa9420d30a5
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Tue Sep 19 22:53:36 2023 -0400
+
+    3.2 HW making exponent func
+
+commit 5fb6688f0437446e6cf0afbdb82d1a8272a5f824
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Tue Sep 19 22:45:56 2023 -0400
+
+    k nowwwww divide is done
+
+commit 33fa690c1f8d16ff993d545b7d6385fb83035a36
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Tue Sep 19 22:42:35 2023 -0400
+
+    3.2 HW nvm I did the divide right now
+
+commit 9c60095016d9254f7256c0239fd0adb568b5e563
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Tue Sep 19 22:35:42 2023 -0400
+
+    3.2 HW divide function tested and complete
+
+commit e41236de976dfbebd443583882a3996f32d539fe
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Tue Sep 19 22:27:38 2023 -0400
+
+    3.2 HW added divide function
+
+commit c66d936b89ad7522ffdd4bf29a762bf7feb7a7de
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Tue Sep 19 22:13:52 2023 -0400
+
+    3.2 HW finished mult. function and tests
+
+commit 221cdfb92559e3f84a47b621db25eda4033d0643
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Tue Sep 19 21:24:37 2023 -0400
+
+    3.2 HW I must relocate
+
+commit 2b0ce1ac54d37737f3f5842b0101b4cfb5ca0e02
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Tue Sep 19 21:21:01 2023 -0400
+
+    3.2 HW created subtraction test and it works very cool
+
+commit bb0296970a594df06d7fe75f02b0dbf6b55e328d
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Tue Sep 19 21:18:30 2023 -0400
+
+    3.2 HW creating subtract function
+
+commit b0f4ef9bd59384e19d0fd785028e778d6ce00967
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Tue Sep 19 21:15:00 2023 -0400
+
+    3.2 HW add function and test finished
+
+commit a2507919450b8248c47129f19405802c7426add3
+Merge: 5f7588b 0b23b39
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Tue Sep 19 21:01:20 2023 -0400
+
+    Merge branch 'main' of https://github.com/GCIS-123-2231/unit03-StrawberrySnakes
+
+commit 5f7588bc1dbe3ea936502f75165deead5a347426
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Tue Sep 19 20:58:47 2023 -0400
+
+    3.2 HW creating add function
+
+commit 0b23b39440d5b0758c1c5140a2b1bd3e537b18b9
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Mon Sep 18 16:24:20 2023 -0400
+
+    3.3 CW guessing game more adding prompt
+
+commit 07bf1dda4f9cf149eaacc8aede6abc8e8f2e3d7e
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Mon Sep 18 16:21:30 2023 -0400
+
+    3.3 CW guessing game more adding correct
+
+commit 6088b5a4e4d03938a649a5a89869c9bf05601d94
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Mon Sep 18 16:19:57 2023 -0400
+
+    3.3 CW guessing game more functions
+
+commit f487462a7d976f9bf1bc6c8ce1fd54664ec600ea
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Mon Sep 18 16:18:30 2023 -0400
+
+    3.3 CW guessing game
+
+commit cf4586d920c5e8fef98671d4e3b24168c0f26a0b
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Mon Sep 18 16:15:32 2023 -0400
+
+    3.3 CW guessing game
+
+commit 61663f6d6a5d1178c2d9fd24b8de7fcb1a248565
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Mon Sep 18 16:01:09 2023 -0400
+
+    3.3 CW fixing semantics.py and testing
+
+commit f97a56c3a80657192163ac6260b0f4addb539f9c
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Mon Sep 18 15:47:17 2023 -0400
+
+    CW activities area function
+
+commit 44208fdbf3a9a0c3f5233f68462277e2350755ad
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Mon Sep 18 15:39:36 2023 -0400
+
+    CW tracing.py
+
+commit 9ced033cde6e9e1e310499a85f585f59c0b12592
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Mon Sep 18 15:20:57 2023 -0400
+
+    CW unit 3.something idk adding comments
+
+commit ec265baefd82561738ede03cecc0ffe5489672b9
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Mon Sep 18 00:46:50 2023 -0400
+
+    3.1 HW I think everything should work correctly now... im just gonna not think about it too much... :)))(*very happy/delirious)
+
+commit bfba2c4ea21c331076039e9f67c608e73a392119
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Mon Sep 18 00:33:12 2023 -0400
+
+    3.1 HW adding some more comments and contemplating the meaning of lifea
+
+commit f943c46af3bc1d213a445cf687db9341e5407d1c
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Mon Sep 18 00:26:53 2023 -0400
+
+    3.1 HW finishing tests making comments, having a mental breakdown :) jk... kinda
+
+commit 089b476b5d23b48c4ae971d7358272b8191d796c
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Mon Sep 18 00:16:48 2023 -0400
+
+    3.1 HW I am so very confused
+
+commit e291476ad0ba7111ec3867c308fc13b60d0c789d
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Sun Sep 17 23:30:36 2023 -0400
+
+    3.1 HW working of testing functions
+
+commit 0ffe13582e8bff2c2d177eeccc54f8198aec9549
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Sun Sep 17 23:21:56 2023 -0400
+
+    3.1 HW starting test
+
+commit 66515093ba1045ad069d0bf6814fd9d1a7fba37c
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Sat Sep 16 23:35:31 2023 -0400
+
+    3.1 HW ahhhhhhhhhhhh
+
+commit c1732bc4a01b561adba73cc97745d6f9779707d7
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Sat Sep 16 23:23:34 2023 -0400
+
+    3.1 HW fixing functionss
+
+commit cb2e0e19113e8e68cfc60b10deb63c31f9e519ab
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Sat Sep 16 23:18:18 2023 -0400
+
+    3.1 HW adding functions
+
+commit ad05a13fe23420a9863fb53f70af5187f0e7cc8b
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Sat Sep 16 23:06:17 2023 -0400
+
+    3.1 HW starting
+
+commit f00c80a955b5655f88a2ecca7ef50f147f8b27a6
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Fri Sep 15 16:41:06 2023 -0400
+
+    classwork random prac.
+
+commit 2226f59ab18c2087c8bc749c57f537d134e34f50
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Fri Sep 15 16:39:58 2023 -0400
+
+    classwork random prac.
+
+commit 4c37b190d8125f82dfae2c31c2189b6134c1f83f
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Fri Sep 15 16:17:03 2023 -0400
+
+    classwork testing coin_toss heads
+
+commit 85c368117a898b29ef6eca820aadcb5c22d0a7bd
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Fri Sep 15 16:12:54 2023 -0400
+
+    classwork making coin_toss.py
+
+commit f30326f42af1b796b3f5a5221922c5ac912cbf3d
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Fri Sep 15 16:09:08 2023 -0400
+
+    classwork making coin_toss.py
+
+commit ae257bbf38dbc21f17d06abc48c413be458e3bf9
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Fri Sep 15 15:59:57 2023 -0400
+
+    classwork testing even_or_odd function
+
+commit 4ffcff70143e5fa57dbf9477a210bf72d2e9e80f
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Fri Sep 15 15:55:44 2023 -0400
+
+    classwork testing even_or_odd function
+
+commit 3fbfc44e221e63e59be4ed255f435d8aa9a9f20b
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Fri Sep 15 15:53:43 2023 -0400
+
+    classwork testing cubed function
+
+commit 21a0c8b9eb9a637c066ba93fac6c56933180304e
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Fri Sep 15 15:51:06 2023 -0400
+
+    classwork testing
+
+commit 90210a7df0a0485579a21afb0d0f85a2b6b90b80
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Fri Sep 15 15:43:29 2023 -0400
+
+    working on activites and activities_test  classwork
+
+commit 7c06eb11fb96ef27240c0fdbbebed69d0599edae
+Author: StrawberrySnakes <dessashapiro@gmail.com>
+Date:   Fri Sep 15 15:33:50 2023 -0400
+
+    3.1 maybe 3.2????? classwork practicing testing
+
+commit f561671396f1940bab01e74658d298eb1e010e00
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Fri Sep 15 15:21:55 2023 -0400
+
+    3.1 CW
+
+commit 19ff465e592a2cb27a60dd928de61a01740b8043
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Wed Sep 13 16:34:55 2023 -0400
+
+    3.1 CW if statements
+
+commit 2bbf804e6d1f587d27e69e9e605ba742524b0f1c
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Wed Sep 13 16:19:03 2023 -0400
+
+    3.1 CW push
+
+commit 1638b41ed2df1c164fe16c5cd32314645ea8c112
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Wed Sep 13 15:52:40 2023 -0400
+
+    3.1 CW
+
+commit ff675b1d710e1adb0d8bb2d60cce3583732d8b09
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Wed Sep 13 15:33:21 2023 -0400
+
+    Some finishing touches
+
+commit 9e813cae78f5b08f87f7dba0f96ef7e6875584b8
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Wed Sep 13 15:30:53 2023 -0400
+
+    updating comments and codes
+
+commit c9ca4187e05057328e571bddd786cb7f1d409aa8
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Wed Sep 13 15:28:34 2023 -0400
+
+    finishing code adding comments
+
+commit 17cc3692520c4c48e7f5641041a8ca002727a186
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Wed Sep 13 15:25:08 2023 -0400
+
+    adding to code
+
+commit 53ea579aac73fa8f92c21753ca8c5fb688a051cb
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Wed Sep 13 15:21:58 2023 -0400
+
+    adding code
+
+commit 7ffb28a899878410e3c4aaa7aa2c3ff2bf2159b5
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Wed Sep 13 15:16:27 2023 -0400
+
+    adding to practice.py
+
+commit c2f1678201321fe5f1eca9c72fd3380db05dc348
+Author: Dessa Shapiro <djs9826@rit.edu>
+Date:   Wed Sep 13 15:07:18 2023 -0400
+
+    Creating file
+
+commit 0f329f5ee3270e01c00c0d4a3c38aa5074babb3d
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Wed Sep 13 19:03:26 2023 +0000
+
+    Initial commit

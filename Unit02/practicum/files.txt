@@ -1,0 +1,223 @@
+
+14153@Dessas-laptop MINGW32 ~
+$ pwd
+/c/Users/14153
+
+14153@Dessas-laptop MINGW32 ~
+$ cd RIT/SoftDev1/unit02-StrawberrySnakes/
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes (main)
+$ ls -la
+total 32
+drwxr-xr-x 1 14153 197609     0 Sep  6 15:11 ./
+drwxr-xr-x 1 14153 197609     0 Sep  6 15:10 ../
+drwxr-xr-x 1 14153 197609     0 Sep  6 15:10 .git/
+-rw-r--r-- 1 14153 197609 12288 Sep  6 15:11 .mini_practicum_01.txt.swp
+-rw-r--r-- 1 14153 197609  3075 Sep  6 15:10 mini_practicum_01.txt
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes (main)
+$ ls -la
+total 32
+drwxr-xr-x 1 14153 197609     0 Sep  6 15:11 ./
+drwxr-xr-x 1 14153 197609     0 Sep  6 15:10 ../
+drwxr-xr-x 1 14153 197609     0 Sep  6 15:10 .git/
+-rw-r--r-- 1 14153 197609 12288 Sep  6 15:11 .mini_practicum_01.txt.swp
+-rw-r--r-- 1 14153 197609  3075 Sep  6 15:10 mini_practicum_01.txt
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes (main)
+$ mkdir practicum
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes (main)
+$ cd practicum/
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes/practicum (main)
+$ cd ..
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes (main)
+$ git add practicum/
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes (main)
+$ git commit -m "creating dir"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .mini_practicum_01.txt.swp
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .mini_practicum_01.txt.swp
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes (main)
+$ git add practicum/
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .mini_practicum_01.txt.swp
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes (main)
+$ git commit -m "adding new dir"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .mini_practicum_01.txt.swp
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes (main)
+$ git push
+Everything up-to-date
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes (main)
+$ cd practicum/
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes/practicum (main)
+$ vi about_me.txt
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes/practicum (main)
+$ cd ..
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes (main)
+$ git add about_me.txt
+fatal: pathspec 'about_me.txt' did not match any files
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes (main)
+$ git add practicum/
+warning: in the working copy of 'practicum/about_me.txt', LF will be replaced by CRLF the next time Git touches it
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   practicum/about_me.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .mini_practicum_01.txt.swp
+
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes (main)
+$ git commit -m "adding new dir with text file"
+[main daefc86] adding new dir with text file
+ 1 file changed, 11 insertions(+)
+ create mode 100644 practicum/about_me.txt
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes (main)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 465 bytes | 465.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/GCIS-123-2231/unit02-StrawberrySnakes/
+   fba4d7d..daefc86  main -> main
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes (main)
+$ cd practicum/
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes/practicum (main)
+$ cat about_me.txt
+Dessa Shapiro
+
+08/03/2005
+
+San Anselmo, CA
+
+I don't have a favorite band
+
+Nuromancer
+
+"To live is to die" - I don't remeber
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes/practicum (main)
+$ cp about_me.txt about_me_copy.txt
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes/practicum (main)
+$ ls -la
+total 6
+drwxr-xr-x 1 14153 197609   0 Sep  6 15:22 ./
+drwxr-xr-x 1 14153 197609   0 Sep  6 15:15 ../
+-rw-r--r-- 1 14153 197609 124 Sep  6 15:19 about_me.txt
+-rw-r--r-- 1 14153 197609 124 Sep  6 15:22 about_me_copy.txt
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes/practicum (main)
+$ cat about_me_copy.txt
+Dessa Shapiro
+
+08/03/2005
+
+San Anselmo, CA
+
+I don't have a favorite band
+
+Nuromancer
+
+"To live is to die" - I don't remeber
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes/practicum (main)
+$ git add about_me_copy.txt
+warning: in the working copy of 'practicum/about_me_copy.txt', LF will be replaced by CRLF the next time Git touches it
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes/practicum (main)
+$ git commit -m "adding a copy of text file"
+[main 2ca92c8] adding a copy of text file
+ 1 file changed, 11 insertions(+)
+ create mode 100644 practicum/about_me_copy.txt
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes/practicum (main)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 351 bytes | 117.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/GCIS-123-2231/unit02-StrawberrySnakes/
+   daefc86..2ca92c8  main -> main
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes/practicum (main)
+$ mv about_me.txt ~/R
+RIT/    Recent/
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes/practicum (main)
+$ mv about_me.txt ~/RIT/SoftDev1/unit02-StrawberrySnakes/
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes/practicum (main)
+$ ls -la
+total 5
+drwxr-xr-x 1 14153 197609   0 Sep  6 15:24 ./
+drwxr-xr-x 1 14153 197609   0 Sep  6 15:24 ../
+-rw-r--r-- 1 14153 197609 124 Sep  6 15:22 about_me_copy.txt
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes/practicum (main)
+$ rm about_me_copy.txt
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes/practicum (main)
+$ ^C
+
+14153@Dessas-laptop MINGW32 ~/RIT/SoftDev1/unit02-StrawberrySnakes/practicum (main)
+$
+
