@@ -1,0 +1,39 @@
+book management system, library, book, shelf, want-list, patron, title,
+author, electronic card catalog, id, name, csv file, checked_out_books
+
+Garbage: library
+
+Class: 
+
+Book:
+    author: string
+    title: string
+    copies: integer
+
+Patron:
+    id: string
+    name: string
+    want_list: set
+    checked_out_books: set
+
+CardCatalog:
+    books_by_title: dic, key title value book
+    books_by_author: dic key author value book
+
+Library:
+    shelves: set
+    card_catalog:list of card catalog
+    patrons: dic key: id value: patron
+
+
+advengers
+    team leader
+    team(superheros)
+
+Superheros 
+    super hero name
+    real identity
+    super powers
+    weapons
+
+

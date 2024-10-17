@@ -1,0 +1,11 @@
+nouns: goats, trolls, player, game, factions, cards, deck, hand, turns, score, name, rarity, attack power, health
+
+Player
+
+Card
+    name: str
+    resourse cost: int
+    faction: str
+    rarity: int
+    attack power: int
+    health: int
